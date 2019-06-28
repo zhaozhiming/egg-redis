@@ -112,8 +112,6 @@ Because it may be cause security risk, refer:
 - https://ruby-china.org/topics/28094
 - https://zhuoroger.github.io/2016/07/29/redis-sec/
 
-If you want to access redis with no password, use `password: null`.
-
 See [ioredis API Documentation](https://github.com/luin/ioredis/blob/master/API.md#new_Redis) for all available options.
 
 ### Customize `ioredis` version
